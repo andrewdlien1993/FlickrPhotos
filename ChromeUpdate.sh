@@ -1,7 +1,7 @@
 #!/bin/bash
 #author
 #date           : 20191211
-#description    : Installation of Google Chrome and Chromedriver
+#description    : Installation of Google Chrome and Chromedriver for Ubuntu
 #notes          : This script must be performed by the root user ubuntu on each server.
 #=======================================================================================================================
 

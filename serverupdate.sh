@@ -1,5 +1,5 @@
 # This script updates the server with needed updates.
 sudo apt update && sudo apt upgrade -y
 
-# Update Google Chrome and Chromedriver for Ubuntu
+# Update Google Chrome and Chromedriver
 sudo bash ChromeUpdate.sh
